@@ -1,17 +1,19 @@
 # Firstname Lastname
 
 ### Location
-Patna, Bihar, India
+Kanpur, UP India
 
 ### Academics
-- Birla Institute of Techology, Mesra
-- Neerja Modi School, Jaipur
+- Nurture International School, Kalyanpur
+- Sir MVIT
 
 ### Non-Coding Interests
-- Music
+- Acting
 - Sports
+- Reading
+-Painting 
 
 
 ### Why Do You Love Coding?
-Because we keep on learning day-by-day
+Because we make use things in a new way
 
